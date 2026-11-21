@@ -1,6 +1,8 @@
 name: Lichess game sync
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "17 2 * * *"
   workflow_dispatch:
