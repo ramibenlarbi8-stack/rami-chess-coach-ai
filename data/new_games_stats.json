@@ -1,0 +1,25 @@
+{
+  "username": "rami9191",
+  "scope": "incremental games only; baseline is separate",
+  "games_total": 0,
+  "wins": 0,
+  "draws": 0,
+  "losses": 0,
+  "by_color": {
+    "white": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "black": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    }
+  },
+  "openings_by_color": {
+    "white": {},
+    "black": {}
+  },
+  "last_updated_utc": "2026-11-21T01:24:45.389222+00:00"
+}
