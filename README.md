@@ -9,9 +9,9 @@ A personal chess-training data pipeline for Lichess account `rami9191`.
 - Baseline statistics and incremental statistics must remain distinguishable.
 - Never overwrite or delete historical games or training records.
 
-## Planned synchronization
+## Automated synchronization
 
-Use the public Lichess Games Export API for `rami9191`. No Lichess password or API token is required for public games. A scheduled GitHub Actions workflow will be added after the import and deduplication logic is validated.
+A GitHub Actions workflow is configured to fetch public Lichess games for `rami9191` and append only unseen game IDs. Public-game retrieval requires no password or API token. The original baseline PGN and baseline statistics remain separate.
 
 ## Training objective
 
