@@ -19,4 +19,4 @@ Track openings and defenses by color, recurring strengths and weaknesses, traini
 
 ## Current status
 
-Repository initialized. The original 50-game baseline has not yet been uploaded to this repository; it remains preserved separately until a verified import is performed.
+Repository initialized. The original baseline PGN remains separate and immutable (not uploaded). All 50 baseline Lichess game IDs are seeded in `data/sync_state.json` so the incremental sync can skip overlapping baseline games. Incremental sync status at the latest confirmed run: 0 new games.
