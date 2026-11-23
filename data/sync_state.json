@@ -1,6 +1,6 @@
 {
   "username": "rami9191",
-  "last_sync_ms": 1795474627613,
+  "last_sync_ms": 1795477282336,
   "known_game_ids": [
     "0noOtsVC",
     "1E7qgeIG",
@@ -54,7 +54,7 @@
     "zyqeKSjZ"
   ],
   "note": "Incremental sync starts 2026-11-21 UTC; baseline game IDs are seeded to prevent overlap duplicates. Original baseline PGN remains separate and immutable.",
-  "last_sync_utc": "2026-11-23T22:57:07.613382+00:00",
+  "last_sync_utc": "2026-11-23T23:41:22.336160+00:00",
   "last_added_count": 0,
   "baseline_ids_seeded": 50
 }
