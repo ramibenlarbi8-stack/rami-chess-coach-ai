@@ -1,25 +1,30 @@
 {
   "username": "rami9191",
   "scope": "incremental games only; baseline is separate",
-  "games_total": 0,
-  "wins": 0,
+  "games_total": 3,
+  "wins": 3,
   "draws": 0,
   "losses": 0,
   "by_color": {
     "white": {
-      "wins": 0,
+      "wins": 2,
       "draws": 0,
       "losses": 0
     },
     "black": {
-      "wins": 0,
+      "wins": 1,
       "draws": 0,
       "losses": 0
     }
   },
   "openings_by_color": {
-    "white": {},
-    "black": {}
+    "white": {
+      "Ruy Lopez: Steinitz Defense": 1,
+      "French Defense: Exchange Variation": 1
+    },
+    "black": {
+      "Pirc Defense": 1
+    }
   },
-  "last_updated_utc": "2026-11-24T15:52:12.282785+00:00"
+  "last_updated_utc": "2026-11-24T16:00:00+00:00"
 }
