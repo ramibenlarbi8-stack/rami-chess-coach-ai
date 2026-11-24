@@ -5,6 +5,7 @@
     "0noOtsVC",
     "1E7qgeIG",
     "2BtUTvJ3",
+    "3emhjJiX",
     "3x47ofBE",
     "55UvTCQy",
     "67vjhC2d",
@@ -39,6 +40,8 @@
     "ijuGOXI9",
     "in3JCV1d",
     "iuLiaHFi",
+    "jLcMi7jb",
+    "l6ivueSu",
     "liKPqeLb",
     "n63PAKyr",
     "ogPMqGnN",
@@ -53,8 +56,8 @@
     "yaiXRv2p",
     "zyqeKSjZ"
   ],
-  "note": "Incremental sync starts 2026-11-21 UTC; baseline game IDs are seeded to prevent overlap duplicates. Original baseline PGN remains separate and immutable.",
+  "note": "Incremental archive includes three manually recorded games from 2026-11-24; baseline remains separate and immutable.",
   "last_sync_utc": "2026-11-24T15:52:12.282825+00:00",
-  "last_added_count": 0,
+  "last_added_count": 3,
   "baseline_ids_seeded": 50
 }
