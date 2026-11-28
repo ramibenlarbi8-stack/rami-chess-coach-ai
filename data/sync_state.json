@@ -1,6 +1,6 @@
 {
   "username": "rami9191",
-  "last_sync_ms": 1795831799522,
+  "last_sync_ms": 1795834667008,
   "known_game_ids": [
     "0noOtsVC",
     "1E7qgeIG",
@@ -57,7 +57,7 @@
     "zyqeKSjZ"
   ],
   "note": "Incremental archive includes three manually recorded games from 2026-11-24; baseline remains separate and immutable.",
-  "last_sync_utc": "2026-11-28T02:09:59.522150+00:00",
+  "last_sync_utc": "2026-11-28T02:57:47.008566+00:00",
   "last_added_count": 0,
   "baseline_ids_seeded": 50
 }
